@@ -54,11 +54,16 @@ function listen(name, callback, selector) {
 
 // ToDo: accept an array of items and lazyLoad or load then fire CoCreateLoaded event
 export async function lazyLoad(name, selector, callback) {
-	if (document.querySelector(selector)) {
-		await dependency(name, await callback());
-	} else {
-		listen(name, callback, selector);
+	try {
+		if (document.querySelector(selector)) {
+			await dependency(name, await callback());
+		} else {
+			listen(name, callback, selector);
+		}
+	} catch (error) {
+		console.error("error lazy loading chunck: ", error);
 	}
+
 }
 
 export async function dependency(name, promise) {
@@ -70,7 +75,7 @@ export async function dependency(name, promise) {
 			dispatchComponentLoaded(name);
 		}
 	} catch (error) {
-		console.error("error loading chunck: ", error);
+		console.error("error loading dependency chunck: ", error);
 	}
 }
 
