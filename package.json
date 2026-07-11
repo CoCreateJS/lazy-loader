@@ -34,8 +34,8 @@
     "type": "GitHub Sponsors ❤",
     "url": "https://github.com/sponsors/CoCreate-app"
   },
-  "main": "./src/index.js",
-  "browser": "./src/index.js",
+  "main": "./src/server.js",
+  "browser": "./src/client.js",
   "dependencies": {
     "@cocreate/config": "^1.13.4",
     "@cocreate/file-server": "^1.19.1",
