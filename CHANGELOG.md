@@ -1,3 +1,19 @@
+## [1.23.8](https://github.com/CoCreate-app/CoCreate-lazy-loader/compare/v1.23.7...v1.23.8) (2026-07-14)
+
+
+### Bug Fixes
+
+* add module type declaration in package.json ([4f9b67f](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/4f9b67f20db9e8708c0f826abf9fe1d6c66b04e0))
+* bump package versions ([779ea8c](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/779ea8cb007e583c0df446a7c76eac8bfae15bfa))
+* improve error handling in lazyLoad and dependency functions ([8714c1e](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/8714c1ebae9d1f2d7c365532bb29c23f7b3ff760))
+* removed post install and add add packages to apprved list ([548411f](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/548411fe0063c90f6db0cc098de2d04058e0a191))
+* root factory variable Module ([440438e](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/440438e86d8806f39c0f38b0ed8c9a5e6667e197))
+* root factory variable Module ([cafc18d](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/cafc18d58e3ab6962eba00e181cb4c924d3dc3b6))
+* semantic version handling ([c2570b5](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/c2570b503ebaa2b3201406f42b73af0f0c8caee6))
+* update main and browser entry points in package.json ([3f89582](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/3f89582955d61e634fe5c9bc9e08669f5ad9568a))
+* update module export to ES6 syntax in release.config.js ([dacc0e1](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/dacc0e18df0f70d04aedb4da852d29e87f64ff97))
+* update package.json and refactor for module compatibility ([5cc1d94](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/5cc1d9440093f7fac265085a4b5dc087d2f19122))
+
 ## [1.23.7](https://github.com/CoCreate-app/CoCreate-lazy-loader/compare/v1.23.6...v1.23.7) (2026-02-04)
 
 
