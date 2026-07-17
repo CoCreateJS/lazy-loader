@@ -1,3 +1,10 @@
+# [1.24.0](https://github.com/CoCreate-app/CoCreate-lazy-loader/compare/v1.23.8...v1.24.0) (2026-07-17)
+
+
+### Features
+
+* update automated workflow and release configuration for improved semantic release handling ([402b240](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/402b240a40f7a39b7ffeb35b0870b7e33f9a8a9a))
+
 ## [1.23.8](https://github.com/CoCreate-app/CoCreate-lazy-loader/compare/v1.23.7...v1.23.8) (2026-07-14)
 
 
