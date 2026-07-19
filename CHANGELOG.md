@@ -1,3 +1,10 @@
+## [1.24.2](https://github.com/CoCreate-app/CoCreate-lazy-loader/compare/v1.24.1...v1.24.2) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([f32ed39](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/f32ed39536f263c8ae3292e3e7c4001f8b5a04ab))
+
 ## [1.24.1](https://github.com/CoCreate-app/CoCreate-lazy-loader/compare/v1.24.0...v1.24.1) (2026-07-17)
 
 
