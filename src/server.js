@@ -63,7 +63,7 @@ export async function init(Server) {
     });
 
 
-    const retrievedConfig = await Config("modules", false, false);
+    const retrievedConfig = await Config.get("modules");
     if (!retrievedConfig) return;
     
     modulesList = retrievedConfig.modules || {};
