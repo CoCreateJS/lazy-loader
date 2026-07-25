@@ -46,12 +46,12 @@
     }
   },
   "dependencies": {
-    "@cocreate/config": "^1.14.0",
-    "@cocreate/file-server": "^1.21.0",
-    "@cocreate/observer": "^1.20.0"
+    "@cocreate/config": "^1.14.3",
+    "@cocreate/file-server": "^1.21.4",
+    "@cocreate/observer": "^1.20.2"
   },
   "devDependencies": {
-    "@cocreate/webpack": "^1.6.0"
+    "@cocreate/webpack": "^1.6.2"
   },
   "allowScripts": {
     "@cocreate/config@1.13.4": true,
