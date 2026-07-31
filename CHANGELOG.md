@@ -285,7 +285,7 @@
 
 * added licencing details ([f927063](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/f927063172a0d24b5fbb2fc647bead7d271f0cfc))
 * comment checkCertificate ([c98d12d](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/c98d12d9d5e43d9eefde96ef05bd5387fd10a819))
-* removed '@cocreate/acme' as it is now handled by '[@cocreate-srever](https://github.com/cocreate-srever)' ([ca81282](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/ca81282b6c6d34178d18a423a74cacb8e44daec0))
+* removed '@cocreate/certificates' as it is now handled by '[@cocreate-srever](https://github.com/cocreate-srever)' ([ca81282](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/ca81282b6c6d34178d18a423a74cacb8e44daec0))
 
 
 ### Features
@@ -316,7 +316,7 @@
 
 ### Features
 
-* Added '@cocreate/acme' for dynamic ssl management ([5916bd5](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/5916bd53c7165b78274556f5717c84f4c8e1e512))
+* Added '@cocreate/certificates' for dynamic ssl management ([5916bd5](https://github.com/CoCreate-app/CoCreate-lazy-loader/commit/5916bd53c7165b78274556f5717c84f4c8e1e512))
 
 ## [1.12.2](https://github.com/CoCreate-app/CoCreate-lazy-loader/compare/v1.12.1...v1.12.2) (2023-12-28)
 
