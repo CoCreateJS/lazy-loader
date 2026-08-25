@@ -13,7 +13,7 @@ Fork the [project on Github](https://github.com/CoCreate-app/CoCreate-lazy-loade
 ```
 git clone https://github.com/contributor/CoCreate-lazy-loader.git
 cd CoCreate-lazy-loader
-git remote add upstream https://github.com/CoCreate-app/CoCreate-lazy-loader.git
+git remote add upstream https://gitlab.com/cocreatejs/CoCreate-lazy-loader.git
 ```
 
 ## Create a Topic Branch
