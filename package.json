@@ -15,6 +15,22 @@
   "publishConfig": {
     "access": "public"
   },
+  "cocreate": {
+    "environment": [
+      "client"
+    ],
+    "interface": {
+      "schemaVersion": 1,
+      "summary": "A simple lazy-loader component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
+      "source": "src/index.js",
+      "api": {
+        "exports": [
+          "dependency",
+          "lazyLoad"
+        ]
+      }
+    }
+  },
   "scripts": {
     "start": "webpack --config webpack.config.js",
     "build": "webpack --mode=production --config webpack.config.js",
