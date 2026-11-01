@@ -53,6 +53,11 @@ function listen(name, callback, selector) {
 }
 
 // ToDo: accept an array of items and lazyLoad or load then fire CoCreateLoaded event
+/**
+ *
+ * @public
+ * @environment client
+ */
 export async function lazyLoad(name, selector, callback) {
 	try {
 		if (document.querySelector(selector)) {
@@ -66,6 +71,11 @@ export async function lazyLoad(name, selector, callback) {
 
 }
 
+/**
+ *
+ * @public
+ * @environment client
+ */
 export async function dependency(name, promise) {
 	try {
 		let component = await promise;
@@ -86,3 +96,10 @@ function dispatchComponentLoaded(name) {
 		})
 	);
 }
+
+/**
+ * A simple lazy-loader component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.
+ *
+ * @module lazy-loader
+ * @environment client
+ */
