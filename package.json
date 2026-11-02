@@ -22,17 +22,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cocreatejs/CoCreate-lazy-loader.git"
+    "url": "git+https://github.com/CoCreateJS/lazy-loader.git"
   },
   "author": "CoCreate LLC",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/CoCreateJS/CoCreate-lazy-loader/issues"
+    "url": "https://github.com/CoCreateJS/lazy-loader/issues"
   },
   "homepage": "https://CoCreateJS.com/docs/lazy-loader",
   "funding": {
     "type": "GitHub Sponsors ❤",
-    "url": "https://github.com/sponsors/CoCreate-app"
+    "url": "https://github.com/sponsors/CoCreateJS"
   },
   "type": "module",
   "main": "./src/index.js",
