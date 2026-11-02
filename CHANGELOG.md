@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/CoCreateJS/lazy-loader/compare/v1.25.0...v2.0.0) (2026-11-02)
+
+
+### chore
+
+* record package identity migration as breaking ([8fb7d78](https://github.com/CoCreateJS/lazy-loader/commit/8fb7d785dc76d22bfd3210729b90a1ff7e8ad5ce))
+
+
+### BREAKING CHANGES
+
+* Consumers must install @cocreate/lazy-loader and use the renamed CoCreateJS repository identity; the previous package and repository identities are no longer supported.
+
 # [1.25.0](https://github.com/CoCreateJS/lazy-loader/compare/v1.24.2...v1.25.0) (2026-11-02)
 
 
