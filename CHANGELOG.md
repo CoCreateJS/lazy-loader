@@ -1,3 +1,24 @@
+# [1.25.0](https://github.com/CoCreateJS/lazy-loader/compare/v1.24.2...v1.25.0) (2026-11-02)
+
+
+### Bug Fixes
+
+* add Deno specific entries to .gitignore ([7762ccb](https://github.com/CoCreateJS/lazy-loader/commit/7762ccb38f405ca40f75843632445827e2e9325d))
+* bump [@cocreate](https://github.com/cocreate) dependencies ([a75ed33](https://github.com/CoCreateJS/lazy-loader/commit/a75ed336a15723fafc463151d7e11b9f69cee8d4))
+* bump versions ([c4faec8](https://github.com/CoCreateJS/lazy-loader/commit/c4faec8cadfdf7b80c74abfc6fc22adee3f9f0f1))
+* bumped dependencies ([d55ce7f](https://github.com/CoCreateJS/lazy-loader/commit/d55ce7fe576c106d2d437d651db3100621ba2c67))
+* remove trailing slash from node_modules entry in .gitignore ([8135d3b](https://github.com/CoCreateJS/lazy-loader/commit/8135d3be072ae843878a253f9e7dca31674f5052))
+* update config retrieval method in init function ([04632e1](https://github.com/CoCreateJS/lazy-loader/commit/04632e156f24afb643f7a444532e54d8aaf4a393))
+* update git url ([7c13040](https://github.com/CoCreateJS/lazy-loader/commit/7c13040b48b5051beb58f44ea0c9c29b21a140f1))
+* update GitHub Actions to use latest versions and sync package.json description ([f7cfb60](https://github.com/CoCreateJS/lazy-loader/commit/f7cfb60396c7740ba3bcb08521249ba7823dba83))
+
+
+### Features
+
+* bump all dependencies ([95871b1](https://github.com/CoCreateJS/lazy-loader/commit/95871b1dff9cae1b3a51968b3ff7b539634d8192))
+* bumped all dependency versions ([54e6d12](https://github.com/CoCreateJS/lazy-loader/commit/54e6d1245f42bdf02bc87bb8b8f827ebb9a3e14e))
+* Replace acme with certificates ([6f49d70](https://github.com/CoCreateJS/lazy-loader/commit/6f49d70ed967a38be2c2c4f7abb9e1bd68d9e648))
+
 ## [1.24.2](https://github.com/CoCreateJS/CoCreate-lazy-loader/compare/v1.24.1...v1.24.2) (2026-07-19)
 
 
