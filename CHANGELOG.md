@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/CoCreateJS/lazy-loader/compare/v2.0.1...v2.0.2) (2026-11-07)
+
+
+### Bug Fixes
+
+* bump CoCreate dependency versions ([8771cda](https://github.com/CoCreateJS/lazy-loader/commit/8771cdac30d1201d36903cc89865cb3bcef3473a))
+
 ## [2.0.1](https://github.com/CoCreateJS/lazy-loader/compare/v2.0.0...v2.0.1) (2026-11-05)
 
 
